@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📸 Photo Organizer
 
 A simple Python script that automatically sorts a messy folder of photos into
@@ -103,3 +104,7 @@ the file's last-modified timestamp on disk.
 ## License
 
 MIT — feel free to use, modify, and share.
+=======
+# BreathTrack
+A simple tool to help people monitor their breathing patterns and respiratory health over time. Users can log symptoms, breathing exercises, and peak flow readings, then view trends to spot changes that might be worth discussing with a doctor.
+>>>>>>> 886a45a962b47505fb8ec3cf47a8bfd2fa8b2562
